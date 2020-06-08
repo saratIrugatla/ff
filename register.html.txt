@@ -1,0 +1,22 @@
+﻿<html>
+<head></head>
+<body>
+<center>
+<form>
+<center>Registration Form</center>
+<div>
+<input type="text" placeholder="Enter email" name ="email">
+<br>
+<input type="text" placeholder="Enter password" name ="password">
+<br>
+<input type="text" placeholder="Enter mobile number" name ="M.No">
+<br>
+<button>submit</button>
+</div>
+</form>
+</center>
+
+
+
+</body>
+</html>
